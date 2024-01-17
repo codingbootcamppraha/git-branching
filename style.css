@@ -1,3 +1,11 @@
 html {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.header {
+
+}
+
+.header nav a {
+    color: black;
+}
